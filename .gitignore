@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+.venv310
+
+# Local build cache
+tmp/
