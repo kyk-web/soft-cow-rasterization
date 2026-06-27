@@ -1,4 +1,4 @@
-# 实验五：基于 PyTorch3D Soft Rasterization 的球体到牛形轮廓可微优化实验
+# 实验六：基于 PyTorch3D Soft Rasterization 的球体到牛形轮廓可微优化实验
 
 202411180014-刘奕可-计科
 
